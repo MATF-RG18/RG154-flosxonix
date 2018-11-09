@@ -1,3 +1,7 @@
+/*
+	- Побољшање анимација	
+	- Додавање временског ограничења
+*/
 #include <GL/glut.h>
 #include <stdbool.h>
 #include <stdlib.h>

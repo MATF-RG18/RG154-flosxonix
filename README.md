@@ -2,7 +2,7 @@
 flosXONIX
 3D-верзија игрице "XONIX". Сврха игре је да играч заузме већину територије над платформом где се крећу лоптице. Међутим, играча ометају разне неприлике у разним облицима.
 
-![screenshoot](https://imgur.com/a/xryl4lc.png "2nd week flosXONIX development")
+![screenshot](https://imgur.com/a/xryl4lc.png)
 
 Контроле | Опис |
 ---------| -------- |

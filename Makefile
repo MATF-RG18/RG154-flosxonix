@@ -1,6 +1,6 @@
 CC = gcc
 CFLAGS = -g -Wextra -Wall -ansi -std=c99 -g
-DODATNO = -lXext -lX11 -lXxf86vm -lm -lXi 
+DODATNO = -lXext -lX11 -lXxf86vm -lm  
 LDFLAGS = -lGL -lGLU -lglut $(DODATNO) 
 
 flosXONIX.o : main.c
